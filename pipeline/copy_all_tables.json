@@ -133,7 +133,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/shamilsuraweera@outlook.com/bronze2ilver"
+					"notebookPath": "/Users/shamilsuraweera@outlook.com/databricks/bronze2ilver"
 				},
 				"linkedServiceName": {
 					"referenceName": "AzureDatabricksLinkedService",
@@ -160,7 +160,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/shamilsuraweera@outlook.com/silver2gold"
+					"notebookPath": "/Users/shamilsuraweera@outlook.com/databricks/silver2gold"
 				},
 				"linkedServiceName": {
 					"referenceName": "AzureDatabricksLinkedService",
